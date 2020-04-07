@@ -8,7 +8,7 @@
 # 个人信息
 
 <div style="float:right">
-    <img src="https://img.52z.com/upload/news/image/20181108/20181108204521_83402.jpg" width="150">
+    <img src="https://github.com/kleinlsl/MyResume/blob/master/Photo/me.jpg" width="150">
 </div>
 
  - 卢松林/男/1998
