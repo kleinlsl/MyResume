@@ -7,7 +7,7 @@
 
 # 个人信息
 
-<div style="float:right">
+<div align=right>
     <img src="https://github.com/kleinlsl/MyResume/blob/master/Photo/me.jpg" width="150">
 </div>
 
