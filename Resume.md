@@ -36,7 +36,7 @@
 * 了解Git、Maven等项目管理工具
 # 所获荣誉和竞赛经历
 - 第八届“泰迪杯”数据挖掘挑战赛国赛三等奖
-- 2019--2020年许昌学院奖学金
+- 2019--2020学年许昌学院奖学金
 - 2019年中国大学生程序设计竞赛-河南省大学生程序设计竞赛&emsp;--&emsp;优胜奖
 - 2019团体程序设计天梯赛&emsp;--&emsp;成功参与奖
 - 参加2019河南省第十二届ACM省赛
@@ -49,7 +49,8 @@
     - Github链接：[https://github.com/kleinlsl/nCov](https://github.com/kleinlsl/nCov)
 - **项目 2**
     - 名称： 工厂物资管理系统
-    - 简介： 课程设计项目，实现了权限控制、数据加密和人脸识别功能。
+    - 简介： 课程设计项目，通过.net进行开发。项目实现了权限控制、数据加密和人脸识别等功能，人脸识别通过调用百度云的接口实现。
+    - 项目难点：如何使用.net调用摄像头捕获照片并将照片转换为base64格式以及如何使用.net发送http请求和接收响应。
     - Github链接:[https://github.com/kleinlsl/Factory-material-management](https://github.com/kleinlsl/Factory-material-management)
 - **项目 3**
     - 名称： 学生成绩管理系统
