@@ -35,10 +35,10 @@
 * 掌握C/C++、Python语言
 * 了解Git、Maven等项目管理工具
 # 所获荣誉和竞赛经历
-- 获得2020年第八届泰迪杯国赛三等奖
-- 获得2019--2020年许昌学院奖学金
-- 河南省大学生程序设计竞赛&emsp;--&emsp;优胜奖
-- 团体程序设计天梯赛&emsp;--&emsp;成功参与奖
+- 第八届“泰迪杯”数据挖掘挑战赛国赛三等奖
+- 2019--2020年许昌学院奖学金
+- 2019年中国大学生程序设计竞赛-河南省大学生程序设计竞赛&emsp;--&emsp;优胜奖
+- 2019团体程序设计天梯赛&emsp;--&emsp;成功参与奖
 - 参加2019河南省第十二届ACM省赛
 - 计算机等级office二级证书
 
@@ -46,7 +46,7 @@
 - **项目 1**
     - 名称：nCov可视化大屏项目
     - 简介：通过Flask搭建web/Echarts疫情监控可视化大屏，并定时爬取数据，实现部署在Ubuntu服务器并通过nginx进行反向代理。
-    - 项目链接：[https://blog.csdn.net/qq_41971768/article/details/106605299](https://blog.csdn.net/qq_41971768/article/details/106605299)
+    - Github链接：[https://github.com/kleinlsl/nCov](https://github.com/kleinlsl/nCov)
 - **项目 2**
     - 名称： 工厂物资管理系统
     - 简介： 课程设计项目，实现了权限控制、数据加密和人脸识别功能。
