@@ -1,7 +1,9 @@
 
-<div align=right>
+<!--
+<div align=center>
     <img src="/Photo/me.jpg" align=center width="150">
 </div>  
+-->
 
 <h1 align=center>卢松林</h1>
 <h4 align=center>15036744984 丨2445859460@qq.com 丨上海</h4>
