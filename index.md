@@ -6,7 +6,7 @@ type: about
 ---
 
 <div align=right>
-    <img src="/images/MyPhoto/me.jpg" align=center width="150">
+    <img src="Photo/me.jpg" align=center width="150">
 </div>  
 
 <h1 align=center>卢松林</h1>
