@@ -33,7 +33,7 @@
 
 # 教育经历
 
-* 许昌学院    2017.9~2021.7   计算机科学与技术专业    本科      GPA:3.67/4.00 
+* 许昌学院    2017.9~2021.7   计算机科学与技术专业    本科      GPA:3.48/4.00 
 
 <!-- - - - -->
 
@@ -65,22 +65,19 @@
 
 # 个人作品
 -  疫情数据可视化大屏      /     小组长    /    2020年05月 - 2020年07月    /   许昌 
-    - 软件环境：Python+Flask+Echarts+Selenium+HTML+nginx 
-    - 开发工具：PyCharm+Mysql+Ubuntu+SecureCrt 
-    - 职责描述：实现项目的数据爬取、数据持久化、web服务器搭建、定时爬虫以及在阿里云服务器部署项目 
-    - 项目简介：该项目旨在提供免费的疫情可视化服务。项目已完成全国疫情和全球疫情数据可视化开发，采用selenium库爬取网 络数据，持久化到MySQL数据库，通过Flask、Echarts完成项目开发；通过nginx和sh脚本完成项目部署。 
+    - Python实现的疫情可视化项目，通过request库请求腾讯的疫情数据接口，并对数据进行清洗，保存至MySQL数据库中，通过Flask、Echarts完成项目可视化开发；通过nginx和sh脚本完成项目部署项目。已完成全国疫情和全球疫情数据可视化开发。
+    - GitHub：https://github.com/kleinlsl/nCov
     
 -  学生成绩管理系统     /     小组长     /   2020年03月 - 2020年05月  /     许昌 
+    -  
     -  软件环境：Spring+Spring MVC+MyBatis+MySQL+Maven+JSP+jQuery+Ajax+EasyUI 
     -  开发工具：IDEA+Mysql+JDK+Maven+Tomcat+Ubuntu 
     -  职责描述：实现系统的权限控制、单点登录、个人信息模块以及系统用户模块的开发 
     -  项目简介：为学校提供的学生管理平台，平台设有超级管理员、管理员、教师、学生四类用户，权限依次降低。系统分为学 生、教师、班级、年级、系统用户管理等五大模块的CRUD和个人信息管理模块的修改密码。项目已初步完成，可部署。 
   
 -   工厂物资管理系统    /  个人项目    /   2019年04月 - 2019年06月     /    许昌 
-    -  开发工具：Visual Studio 2017、Sql Server、百度云、ApiPost 
-    -  项目简介：项目旨在为企业提供便捷的仓库物资管理系统。通过.net开发实现权限控制、物资管理、仓库管理、库存管理、数 据加密和人脸识别功能，并项目已完成打包发布。 
-    -  开源地址：https://github.com/kleinlsl/Factory-material-management      用户名：admin   密码：admin 
-    -  资源文件：https://github.com/kleinlsl/Factory-material-management/releases/download/V1.0/Setup.msi 
+    -  基于.net开发的仓库物资管理系统。通过.net开发实现权限控制、物资管理、仓库管理、库存管理、数据加密和人脸识别功能，并项目已完成打包发布。 
+    -  GitHub：https://github.com/kleinlsl/Factory-material-management     
 
 - 图书查询系统    / 2018年4月-2018年5月   /   许昌  /   数据结构课程设计
     -  Java实现图书查询系统，通过io进行数据读取/导出。手写二分查找、快速排序实现查询和排序，添加图书时实行动态扩容机制。
