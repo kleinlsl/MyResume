@@ -73,7 +73,7 @@
     -  GitHub：https://github.com/kleinlsl/my-SMS
   
 -   工厂物资管理系统    /  个人项目    /   2019年04月 - 2019年06月     /    许昌 
-    -  基于.net开发的仓库物资管理系统。通过.net开发实现权限控制、物资管理、仓库管理、库存管理、数据加密和人脸识别功能，并项目已完成打包发布。 
+    -  基于.net开发的仓库物资管理系统。通过.net开发实现权限控制、物资管理、仓库管理、库存管理、数据加密和人脸识别功能。 
     -  GitHub：https://github.com/kleinlsl/Factory-material-management     
 
 - 图书查询系统    / 2018年4月-2018年5月   /   许昌  /   数据结构课程设计
