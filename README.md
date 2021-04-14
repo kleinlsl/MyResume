@@ -71,9 +71,13 @@
 -  学生成绩管理系统     /     个人项目     /   2020年03月 - 2020年05月  /     许昌 
     -  基于SSM框架搭建的学生管理系统，平台设有超级管理员、管理员、教师、学生四类用户，权限依次降低。系统分为学生、教师、班级、年级、系统用户管理等五大模块的CRUD和个人信息管理模块的修改密码。通过maven将项目打包成war包，发布在tomcat服务器。
     -  GitHub：https://github.com/kleinlsl/my-SMS
-  
+    
 -   工厂物资管理系统    /  个人项目    /   2019年04月 - 2019年06月     /    许昌 
     -  基于.net开发的仓库物资管理系统。通过.net开发实现权限控制、物资管理、仓库管理、库存管理、数据加密和人脸识别功能。 
+    -  GitHub：https://github.com/kleinlsl/XSGManage    
+   
+-   学生成绩管理   /   2019年04月 - 2019年06月     /    许昌    /   移动互联网开发课程设计
+    -  基于Android+Django+sqlit3开发，安卓客户端通过okhttp进行网络请求，使用gson进行数据解析。服务器使用Django编写接口，并用sqlit3进行数据存储。
     -  GitHub：https://github.com/kleinlsl/Factory-material-management     
 
 - 图书查询系统    / 2018年4月-2018年5月   /   许昌  /   数据结构课程设计
