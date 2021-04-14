@@ -82,6 +82,10 @@
     -  开源地址：https://github.com/kleinlsl/Factory-material-management      用户名：admin   密码：admin 
     -  资源文件：https://github.com/kleinlsl/Factory-material-management/releases/download/V1.0/Setup.msi 
 
+- 图书查询系统    / 2018年4月-2018年5月   /   许昌  /   数据结构课程设计
+    -  Java实现图书查询系统，通过io进行数据读取/导出。手写二分查找、快速排序实现查询和排序，添加图书时实行动态扩容机制。
+    -  GitHub：https://github.com/kleinlsl/BookInquirySystem 
+
 
 
 # 致谢
